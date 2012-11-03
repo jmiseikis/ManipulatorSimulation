@@ -12,14 +12,14 @@ and the speed of convergence.
 
 The following graphs are generated which can be useful for model analysis (n = 10, beta = 0.01):
 
-Positions
+Position convergence
 
-![GitHub Logo](/images/logo.png)
+![Position convergence](https://raw.github.com/jmiseikis/ManipulatorSimulation/master/Images/Pos_b0.01_p10.jpg)
 
 Joint Angles
 
-![GitHub Logo](/images/logo.png)
+![Angle convergence](https://raw.github.com/jmiseikis/ManipulatorSimulation/master/Images/Angles_b0.01_p10.jpg)
 
 And the whole robot configuration (50 points)
 
-![GitHub Logo](/images/logo.png)
+![Robot configuration](https://raw.github.com/jmiseikis/ManipulatorSimulation/master/Images/Robot_p50.jpg)
